@@ -1,8 +1,5 @@
 <?php
 
-require_once "./xScanner.class.php";
-require_once "./analyzeTable.class.php";
-
 class MyScanner extends xScanner
 {
 

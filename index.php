@@ -1,5 +1,7 @@
 <?php
 
+    require_once "./xScanner.class.php";
+    require_once "./analyzeTable.class.php";
     require_once './myScanner.class.php';
     
     if(php_sapi_name() == "cli")
