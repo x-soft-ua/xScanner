@@ -1,25 +1,14 @@
-{
-    "repositories":[
-        {
-            "type":"git",
-            "url":"http://github.com/x-soft-ua/xScanner"
-        },
 
-        {
-            "type":"package",
-            "package":{
-                "name":"x-soft-ua/xScanner",
-                "version":"1.0.0",
-                "source":{
-                    "type":"git",
-                    "url":"http://github.com/x-soft-ua/xScanner",
-                    "reference":"master"
-                }
-            }
-        }
-    ],
+    {
+	"name": "x-soft-ua/xScanner",
+	"version": "1.0.0",
+	"dist": {
+    	    "url": "http://github.com/x-soft-ua/xScanner",
+    	    "type": "git"
+	},
+	"require": {
+    	    "php":">=5.3.0"
+	}
 
-    "require": {
-        "php":">=5.3.0"
     }
-}
+
