@@ -1,9 +1,9 @@
 
     {
-	"name": "x-soft-ua/xScanner",
+	"name": "x-soft-ua/xscanner",
 	"version": "1.0.0",
 	"dist": {
-    	    "url": "http://github.com/x-soft-ua/xScanner",
+    	    "url": "http://github.com/x-soft-ua/xscanner",
     	    "type": "git"
 	},
 	"require": {
