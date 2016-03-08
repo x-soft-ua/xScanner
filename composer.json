@@ -1,15 +1,10 @@
-
-    {
-	"name": "x-soft-ua/xscanner",
-	"version": "1.0.0",
-	"dist": {
-    	    "url": "http://github.com/x-soft-ua/xscanner",
-    	    "type": "git"
-	},
-	"require": {
-    	    "php":">=5.3.0"
-	},
-	"minimum-stability": "dev"
-
-    }
-
+{
+    "name": "x-soft-ua/xscanner",
+    "authors": [
+        {
+            "name": "Stas Oreshyn",
+            "email": "stas@c8.net.ua"
+        }
+    ],
+    "require": {}
+}
