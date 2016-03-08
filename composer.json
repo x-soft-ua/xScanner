@@ -6,5 +6,6 @@
             "email": "stas@c8.net.ua"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
