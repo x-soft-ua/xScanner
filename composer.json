@@ -1,5 +1,6 @@
 {
     "name": "x-soft-ua/xscanner",
+    "version":"1.0.0-stable",
     "authors": [
         {
             "name": "Stas Oreshyn",
